@@ -1,0 +1,7 @@
+fastapi>=0.115,<1
+cryptography>=42,<47
+python-dotenv>=1.0,<2
+requests>=2.31,<3
+uvicorn>=0.30,<1
+wechatpy>=1.8.18,<2
+wecom-aibot-python-sdk==1.0.2
